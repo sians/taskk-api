@@ -1,0 +1,2 @@
+class EmptySerializer < BaseSerializer
+end
